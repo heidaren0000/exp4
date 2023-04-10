@@ -1,4 +1,4 @@
-package com.example.exp4;
+package org.ykq.demo3;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -8,10 +8,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.ListAdapter;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
