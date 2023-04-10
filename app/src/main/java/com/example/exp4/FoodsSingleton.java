@@ -25,6 +25,7 @@ public class FoodsSingleton {
             food.setPrice(23.0);
             food.setImage(R.drawable.duck_neck);
             food.setName("麻辣鸭脖"+i);
+            mFoods.add(food);
         }
     }
 
